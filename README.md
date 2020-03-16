@@ -6,7 +6,8 @@ Basic Magnet and metal simulation game. I tried to applied Gilbert's Model. Magn
 I did not code multiple magnet, because i did not figure out physics part. I did not understand how to divide a magnet in two pieces. and physics behind it. Even in magnet - metal interaction force calculation was hard.
 https://www.youtube.com/watch?v=Mp0Bu75MSj8&t=1s
 
-
+# Bulding Game
+I build and test this piece of game in IOS enviroment.
 
 # References
 [1] -> https://www.wikiwand.com/en/Force_between_magnets#/Force_between_two_magnetic_poles
