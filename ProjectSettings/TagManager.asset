@@ -1,0 +1,57 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Draggable
+  - MetalObject
+  - holeObject
+  - restartButton
+  - text
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - PostProcessing
+  - DragTargets
+  - PullingObj
+  - RestartingObj
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: DragTargets
+    uniqueID: 4044198665
+    locked: 0
+  - name: PullingObj
+    uniqueID: 3268508791
+    locked: 0
+  - name: RestartingObj
+    uniqueID: 3958441957
+    locked: 0
